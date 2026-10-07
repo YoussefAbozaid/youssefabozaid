@@ -1,71 +1,118 @@
-<h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> 
-  Greetings! I'm Youssef Abozaid
-</h1>
+<!-- ═══════════════ HEADER ═══════════════ -->
+<div align="center">
 
-<p align="center">
-  <b>Computer Science Student at Alexandria National University (ANU)</b> <img src="https://upload.wikimedia.org/wikipedia/ar/3/3e/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8I%D8%A9_%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8I%D8%A9.png" width="22"/> <br>
-  <i>Focusing on the convergence of Data Science and Artificial Intelligence</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Youssef%20Abozaid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%C3%97%20Artificial%20Intelligence&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Damanhour%2C%20Egypt-blue?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Actively%20Learning-green?style=flat-square" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+ANU;Aspiring+AI+Engineer;Turning+complex+data+into+actionable+intelligence" alt="Typing SVG" />
+</a>
 
-<hr>
+<br/>
 
-### 👨‍💻 About My Professional Path
-I am a dedicated Computer Science student at **Alexandria National University**, specializing in the fields of **Data Science and AI**. My journey is driven by a passion for deciphering complex datasets and architecting intelligent systems that solve real-world problems. I bridge the gap between rigorous academic theories at ANU and hands-on technical implementation using industry-standard tools.
+![Location](https://img.shields.io/badge/📍_Damanhour,_Egypt-0F2027?style=for-the-badge)
+![Status](https://img.shields.io/badge/🟢_Actively_Learning-1f6feb?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=youssefabozaid&label=Profile+Views&color=0e75b6&style=for-the-badge)
 
-Currently, I am deep-diving into the **Data Scientist with Python** track on DataCamp, mastering everything from advanced data manipulation to predictive modeling while expanding my expertise in web technologies to build full-stack data applications.
+</div>
 
----
+<br/>
 
-### 🚀 Core Expertise & Tech Stack
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## 👋 About Me
 
-#### 📊 Programming & Web Languages
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-</p>
+I'm a **Computer Science student at Alexandria National University (ANU)**, specializing in **Data Science and AI**. I'm driven by a passion for making sense of complex datasets and building intelligent systems that solve real-world problems.
 
-#### 🛠️ Development Ecosystem & Data Tools
-<p>
-  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img alt="Conda" src="https://img.shields.io/badge/Miniconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
+I bridge the gap between rigorous academic theory and hands-on implementation — currently working through the **Data Scientist with Python** track on DataCamp, from advanced data manipulation to predictive modeling, while learning to ship models as real **APIs with FastAPI**.
 
----
+```python
+class Youssef:
+    role      = "Data Science & AI Student"
+    university = "Alexandria National University"
+    goal      = "AI Engineer"
+    focus     = ["Machine Learning", "Data Analysis", "Model Deployment"]
+    currently = "Data Scientist with Python @ DataCamp"
 
-### 📈 AI & Machine Learning Roadmap
-My development strategy is divided into three core pillars:
-1. **Advanced Data Analysis:** Utilizing **Pandas** and **NumPy** for comprehensive Exploratory Data Analysis (EDA), cleaning, and statistical filtering.
-2. **Machine Learning Engineering:** Building and evaluating robust predictive models using **Scikit-Learn**, focusing on both supervised and unsupervised learning algorithms.
-3. **Full-Stack Data Solutions:** Integrating data insights into web platforms using **HTML, CSS, and JavaScript** to create interactive dashboards and tools.
+    def motto(self):
+        return "Turning complex data into actionable intelligence."
+```
 
----
+<br/>
 
-### 📬 Connect With Me
-Feel free to reach out for collaborations or to discuss anything related to Data Science and AI!
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+## 🛠️ Tech Stack
 
-<p>
-  <a href="https://www.linkedin.com/in/youssef-abozaid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/youssefabozaid" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.facebook.com/youssef.abozaid" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/youssef.abozaid" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.datacamp.com/portfolio/youssefabozaid" target="_blank"><img src="https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=white" /></a>
-</p>
+**Languages**
 
-<p align="center">
-  <i>"Turning complex data into actionable intelligence."</i>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Data Science & Machine Learning**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+**Tools & Environment**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<br/>
+
+<!-- ═══════════════ ROADMAP ═══════════════ -->
+## 🗺️ AI & Machine Learning Roadmap
+
+| Pillar | What I'm doing | Tools |
+|:------:|----------------|:-----:|
+| **📊 Advanced Data Analysis** | Exploratory Data Analysis (EDA), cleaning, and statistical filtering | `Pandas` `NumPy` |
+| **🤖 Machine Learning Engineering** | Building and evaluating predictive models — supervised and unsupervised learning | `Scikit-Learn` |
+| **🚀 Model Deployment** | Serving trained models as fast, documented REST APIs that real apps can use | `FastAPI` `Pydantic` |
+
+<br/>
+
+<!-- ═══════════════ GITHUB STATS ═══════════════ -->
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=youssefabozaid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefabozaid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=youssefabozaid&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+## 📬 Let's Connect
+
+Feel free to reach out for collaborations or to talk anything Data Science and AI!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/youssef-abozaid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/youssefabozaid" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.datacamp.com/portfolio/youssefabozaid" target="_blank"><img src="https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp"/></a>
+<a href="https://www.facebook.com/youssef.abozaid" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="YOUR_YOUTUBE_CHANNEL_LINK" target="_blank"><img src="https://img.shields.io/badge/YouTube_You%26AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="footer"/>
