@@ -11,7 +11,6 @@
 
 ![Location](https://img.shields.io/badge/📍_Damanhour,_Egypt-0F2027?style=for-the-badge)
 ![Status](https://img.shields.io/badge/🟢_Actively_Learning-1f6feb?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=youssefabozaid&label=Profile+Views&color=0e75b6&style=for-the-badge)
 
 </div>
 
@@ -19,6 +18,8 @@
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 ## 👋 About Me
+
+<img src="https://raw.githubusercontent.com/YoussefAbozaid/youssefabozaid/main/images.jpg" width="90" align="right" alt="ANU"/>
 
 I'm a **Computer Science student at Alexandria National University (ANU)**, specializing in **Data Science and AI**. I'm driven by a passion for making sense of complex datasets and building intelligent systems that solve real-world problems.
 
