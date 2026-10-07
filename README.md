@@ -119,7 +119,7 @@ Feel free to reach out for collaborations or to talk anything Data Science and A
 
 <br/><br/>
 
-### 🎥 You&AI Community
+### 🎥 You&.. Community
 
 <a href="https://www.youtube.com/@YoussefAbozaid_You" target="_blank"><img src="https://img.shields.io/badge/YouTube_You%26AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <a href="https://t.me/YoussefAbozaid_You_Telegram" target="_blank"><img src="https://img.shields.io/badge/Telegram_(Male)-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Male"/></a>
