@@ -4,13 +4,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Youssef%20Abozaid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%C3%97%20Artificial%20Intelligence&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+ANU;Aspiring+AI+Engineer;Turning+complex+data+into+actionable+intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+ANU;Aspiring+AI+Engineer;Content+Creator+%7C+You%26AI;Turning+complex+data+into+actionable+intelligence" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ![Location](https://img.shields.io/badge/📍_Damanhour,_Egypt-0F2027?style=for-the-badge)
 ![Status](https://img.shields.io/badge/🟢_Actively_Learning-1f6feb?style=for-the-badge)
+![Creator](https://img.shields.io/badge/🎥_Content_Creator-FF0000?style=for-the-badge)
 
 </div>
 
@@ -25,13 +26,16 @@ I'm a **Computer Science student at Alexandria National University (ANU)**, spec
 
 I bridge the gap between rigorous academic theory and hands-on implementation — currently working through the **Data Scientist with Python** track on DataCamp, from advanced data manipulation to predictive modeling, while learning to ship models as real **APIs with FastAPI**.
 
+Alongside my studies, I'm a **Content Creator**: I run **You&AI**, an Arabic-language YouTube channel where I explain Artificial Intelligence in a simple and practical way.
+
 ```python
 class Youssef:
-    role      = "Data Science & AI Student"
+    role       = ["Data Science & AI Student", "Content Creator"]
     university = "Alexandria National University"
-    goal      = "AI Engineer"
-    focus     = ["Machine Learning", "Data Analysis", "Model Deployment"]
-    currently = "Data Scientist with Python @ DataCamp"
+    goal       = "AI Engineer"
+    focus      = ["Machine Learning", "Data Analysis", "Model Deployment"]
+    currently  = "Data Scientist with Python @ DataCamp"
+    channel    = "You&AI — AI education in Arabic"
 
     def motto(self):
         return "Turning complex data into actionable intelligence."
@@ -106,11 +110,20 @@ Feel free to reach out for collaborations or to talk anything Data Science and A
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/youssef-abozaid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/youssefabozaid" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/youssef-abozaid-93500b376/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/YoussefAbozaid" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://youssefabozaid.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:youssefabozaid.you@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.datacamp.com/portfolio/youssefabozaid" target="_blank"><img src="https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp"/></a>
-<a href="https://www.facebook.com/youssef.abozaid" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="YOUR_YOUTUBE_CHANNEL_LINK" target="_blank"><img src="https://img.shields.io/badge/YouTube_You%26AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://www.facebook.com/profile.php?id=61587187371880" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+
+<br/><br/>
+
+### 🎥 You&AI Community
+
+<a href="https://www.youtube.com/@YoussefAbozaid_You" target="_blank"><img src="https://img.shields.io/badge/YouTube_You%26AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://t.me/YoussefAbozaid_You_Telegram" target="_blank"><img src="https://img.shields.io/badge/Telegram_(Male)-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Male"/></a>
+<a href="https://t.me/YoussefAbozaid_You_Teleg" target="_blank"><img src="https://img.shields.io/badge/Telegram_(Female)-E91E63?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Female"/></a>
 
 </div>
 
